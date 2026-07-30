@@ -34,7 +34,7 @@ https://zomatowebpageclone.netlify.app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/ahmedaalam/zomato-website-clone.git
+git clone https://github.com/ahmedaalam/zomato-webpage-clone.git
 ```
 
 ---
