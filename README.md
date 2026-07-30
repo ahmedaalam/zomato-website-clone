@@ -2,7 +2,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![UI Clone](https://img.shields.io/badge/Project-UI--Clone-lightgrey?style=for-the-badge)
 
 A static frontend clone of the Zomato website built using HTML and CSS as part of a web development course assignment.
 
@@ -10,7 +9,7 @@ A static frontend clone of the Zomato website built using HTML and CSS as part o
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/zomato-website-clone/
+https://zomatowebpageclone.netlify.app/
 
 ---
 
